@@ -19,7 +19,7 @@
 | HTTP API            | S    |               |
 | I18N                | S    |               |
 | Import/Export       | S    |               |
-| Interactivity API   | S    |               |
+| Interactivity API   | S    | gautam        |
 | Mail                | S    | sirlouen      |
 | Media API           | L    |               |
 | Multisite           | L    |               |
