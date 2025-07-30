@@ -21,7 +21,7 @@
 | Import/Export       | S    |               |
 | Interactivity API   | S    | gautam        |
 | Mail                | S    | sirlouen      |
-| Media API           | L    |               |
+| Media API           | L    | iamshashank   |
 | Multisite           | L    |               |
 | Options, Meta API   | M    |               |
 | Permalinks          | M    |               |
@@ -34,7 +34,7 @@
 | Site Health         | S    |               |
 | Sitemaps            | S    |               |
 | Taxonomies          | M    |               |
-| Themes              | M    |               |
+| Themes              | M    | mosescursor   |
 | Toolbar             | S    | sabernhardt   |
 | Upgrade/Install     | M    |               |
 | Users               | M    |               |
