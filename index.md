@@ -9,7 +9,6 @@
 | Database            | M    |                  |
 | Date/Time           | S    |                  |
 | Editor              | L    |                  |
-| Export              | S    |                  |
 | External Libraries  | M    |                  |
 | Feeds               | S    |                  |
 | Filesystem API      | S    |                  |
