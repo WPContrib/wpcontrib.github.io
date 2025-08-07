@@ -15,7 +15,7 @@
 | Formatting          | M    |                  | Advanced Regex, HTML Standards, Encoding |
 | Help/About          | S    | oglekler         | Only PHP                                 |
 | HTML API            | S    |                  | Advanced Regex, HTML Standards           |
-| HTTP API            | S    | pmbaldha         | HTTP Standards                           |
+| HTTP API            | S    | pmbaldha         | HTTP Standards, cURL mastery             |
 | I18N                | S    |                  | Advanced Character Encoding              |
 | Import/Export       | S    |                  | XML                                      |
 | Interactivity API   | S    | gautam           | Front-End (React, CSS, JS)               |
