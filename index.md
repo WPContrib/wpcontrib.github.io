@@ -15,7 +15,7 @@
 | Formatting          | M    |                  | Advanced Regex, HTML Standards, Encoding |
 | Help/About          | S    | oglekler         | Only PHP                                 |
 | HTML API            | S    |                  | Advanced Regex, HTML Standards           |
-| HTTP API            | S    |                  | HTTP Standards                           |
+| HTTP API            | S    | pmbaldha         | HTTP Standards                           |
 | I18N                | S    |                  | Advanced Character Encoding              |
 | Import/Export       | S    |                  | XML                                      |
 | Interactivity API   | S    | gautam           | Front-End (React, CSS, JS)               |
@@ -28,7 +28,7 @@
 | Posts, Post Types   | L    | jadavsanjay      | Only PHP                                 |
 | Privacy             | M    |                  | Privacy Laws (specially European)        |
 | Query               | M    |                  | Only PHP                                 |
-| REST API            | M    | pmbaldha         | HTTP Standards                           |
+| REST API            | M    |                  | HTTP Standards                           |
 | Script Loader       | S    |                  | Mainly PHP                               |
 | Site Health         | S    |                  | Only PHP                                 |
 | Sitemaps            | S    |                  | XML                                      |
